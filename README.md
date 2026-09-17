@@ -6,7 +6,7 @@
 ### 📋 Project Description
 ---
 
-Creation of a procedurally generated city skyline scene built in OpenFrameworks, featuring randomly generated buildings, a river, a carousel, and a full lighting setup with dynamic movement, multiple lights, materials, textures and a skybox.
+Creation of a procedurally generated simple city skyline scene built in OpenFrameworks, featuring randomly generated buildings, a river, a carousel, and a full lighting setup with dynamic movement, multiple lights, materials, textures and a skybox.
 
 &nbsp;
 
