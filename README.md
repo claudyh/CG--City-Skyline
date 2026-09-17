@@ -45,9 +45,11 @@ Creation of a procedurally generated simple city skyline scene built in OpenFram
 
 **1. Install Visual Studio** (https://visualstudio.microsoft.com/downloads/)
 - On the instaler add "Desktop development with C++"
+
 **2. Install OpenFrameworks** (https://openframeworks.cc/download/)
 - Get version 0.12.0 (get the folder: of_v0.12.0_vs_release)
 - To create a project use: \of_v0.12.0_vs_release\projectGenerator and add the files
+
 **3. Build and Run**
 
 &nbsp;
